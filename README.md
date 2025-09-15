@@ -11,3 +11,6 @@
 - Visualizes predictions on images with bounding boxes using OpenCV and Matplotlib
 
 - Compatible with YOLOv8 latest version and easy to extend to multiple classes
+
+# Dataset 
+👉 Can be accessed through https://www.kaggle.com/datasets/sshikamaru/car-object-detection
